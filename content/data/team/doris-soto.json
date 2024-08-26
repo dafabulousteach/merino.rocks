@@ -1,10 +1,12 @@
 {
     "type": "Person",
-    "firstName": "Doris",
-    "lastName": "Soto",
+    "firstName": "Kim",
+    "lastName": "Merino",
     "image": {
         "type": "ImageBlock",
-        "url": "/images/about.jpg",
-        "altText": "Doris Soto photo"
-    }
+        "url": "/images/TA_Kim2.jpg",
+        "altText": "Kim Merino photo",
+        "caption": "Its me"
+    },
+    "role": "Engineering Manager"
 }
