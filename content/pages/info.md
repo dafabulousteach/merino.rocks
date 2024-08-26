@@ -13,14 +13,22 @@ sections:
   - elementId: ''
     colors: colors-f
     backgroundSize: full
-    text: >-
-      ## Hey I’m a developer. I’ve been born and raised in the world, and that’s
-      also where I’m based. I’m currently a free agent, ex-this, ex-that,
-      ex-super big name. When I’m not coding, writing or creating, I eat
-      cereals. I have a dog, check her out [@mygod](https://www.stackbit.com/).
+    text: >
+      ### Hey I’m Kim.
+
+
+      #### I'm an engineering manager, but before my career in tech, I was a
+      public school teacher. After 8 years of teaching history, I made a wild
+      move to learn software engineering and have been there ever since,
+      building APIs and frontends for lots of different projects.
+
+
+      #### I'm a different kind of EM in that I'm ..... well.....human. Yeah,
+      KPIs are good as are stand ups, but nothing beats having a team leader
+      that will listen to you and help you be your best
     media:
       type: ImageBlock
-      url: /images/about.jpg
+      url: /images/20220502_110507.jpg
       altText: Hero image
     styles:
       self:
@@ -58,177 +66,33 @@ sections:
         justifyContent: center
         borderWidth: 1
         borderStyle: solid
-  - type: MediaGallerySection
-    colors: colors-f
-    subtitle: 'I worked with these folks:'
-    images:
-      - type: ImageBlock
-        url: /images/logo1.svg
-        altText: Logo one
-        caption: Logo one
-      - type: ImageBlock
-        url: /images/logo2.svg
-        altText: Logo two
-        caption: Logo two
-      - type: ImageBlock
-        url: /images/logo3.svg
-        altText: Logo three
-        caption: Logo three
-      - type: ImageBlock
-        url: /images/logo4.svg
-        altText: Logo four
-        caption: Logo four
-      - type: ImageBlock
-        url: /images/logo5.svg
-        altText: Logo five
-        caption: Logo five
-    spacing: 3
-    columns: 5
-    aspectRatio: auto
-    showCaption: false
-    enableHover: false
-    styles:
-      self:
-        width: wide
-        height: auto
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: FeaturedItemsSection
-    colors: colors-f
-    items:
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: GitHub
-            url: 'https://github.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Twitter
-            url: 'https://twitter.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: LinkedIn
-            url: 'https://www.linkedin.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: CodePen
-            url: 'https://codepen.io/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Discord
-            url: 'https://discord.com/'
-        styles:
-          self:
-            textAlign: left
-      - type: FeaturedItem
-        actions:
-          - type: Link
-            label: Instagram
-            url: 'https://www.instagram.com/'
-        styles:
-          self:
-            textAlign: left
-    columns: 3
-    spacingX: 120
-    spacingY: 0
-    styles:
-      self:
-        height: auto
-        width: wide
-        padding:
-          - pt-8
-          - pb-8
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderRadius: none
-        borderWidth: 0
-        borderStyle: none
-        borderColor: border-dark
-      title:
-        textAlign: left
-      subtitle:
-        textAlign: left
-    subtitle: 'You can find me here:'
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
   - type: LabelsSection
     colors: colors-f
     subtitle: 'Skills:'
     items:
       - type: Label
-        label: 'WEB 1, 2, 3'
+        label: Building strong remote teams
       - type: Label
         label: React
       - type: Label
-        label: Microsoft Office
+        label: Cross-collaboration
       - type: Label
-        label: Next.js
+        label: Project Mgmt
       - type: Label
-        label: Netlify
+        label: Engineer productivity
       - type: Label
-        label: Pancakes
+        label: Stakeholder Mgmt
       - type: Label
-        label: C++
+        label: Quarterly Planning
       - type: Label
-        label: Swift
+        label: Useless Trivia
   - type: DividerSection
     styles:
       self:
         width: wide
         padding:
-          - pt-12
-          - pb-12
+          - pt-8
+          - pb-8
           - pl-4
           - pr-4
         justifyContent: center
@@ -239,7 +103,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [thisismyemail.@myemail.me](mailto:thisismyemail.@myemail.me)
+      [dafabulousteach@gmail.com](mailto:dafabulousteach@gmail.com)
   - type: DividerSection
     styles:
       self:
@@ -257,26 +121,47 @@ sections:
     items:
       - type: FeaturedItem
         subtitle: 'Experience:'
-        text: |-
+        text: |+
           **Current**
 
-          * freelance @freelance.me
+          *   Freelance Software Engineering
 
-          **2018-2021**
+          **2022-2024**
 
-          * fullstack at this startup
+          *   Engineering Manager @ Netlify
 
-          **2015**
+          **2021-2022**
 
-          * senior front-end at this place
+          *   Software Engineering Manager @ Coiled
 
-          **2013**
+          **2020-2021**
 
-          * intern developer at a big company
+          *   Senior Software Engineer @ ICX Media
 
-          **2011**
+          **2019-2020**
 
-          * flipping burgers
+          *   Solution Architect @ Slalom
+
+          **2018-2019**
+
+          *   Lead Engineer @ Fashion Nova
+
+          **2017-2018**
+
+          *   Lead Instructor @ General Assembly
+
+          **2016-2018**
+
+          *   Software Engineering Team Lead @ Accenture
+
+          **2006-2015**
+
+          *   Teacher @ SF Unified School District
+
+          *   Teacher @ LA Unified School District
+
+
+
         styles:
           self:
             textAlign: left
@@ -287,18 +172,23 @@ sections:
               - pr-0
       - type: FeaturedItem
         subtitle: 'Education:'
-        text: |-
-          **2015-2018**
+        text: |+
+          **2015**
 
-          * ba computer sciense at a semi fancy school
+          *   Full Stack Software Engineering, Hack Reactor
 
-          **2014**
+          **2007**
 
-          * react certificate somewhere
+          *   M.Ed, UCLA
 
-          **2011**
+          **2005**
 
-          * my highschool
+          *   Teaching Credential, UCLA
+
+          **2004**
+
+          *   B.A. History, UCSD
+
         styles:
           self:
             textAlign: left
@@ -333,82 +223,49 @@ sections:
         textAlign: left
       subtitle:
         textAlign: left
-  - type: DividerSection
-    styles:
-      self:
-        width: wide
-        padding:
-          - pt-12
-          - pb-12
-          - pl-4
-          - pr-4
-        justifyContent: center
-        borderWidth: 1
-        borderStyle: solid
-  - type: ContactSection
-    backgroundSize: full
-    title: "Let’s talk... \U0001F4AC"
+  - type: MediaGallerySection
+    title: Personal
+    subtitle: A sneak peak into my world
+    images:
+      - type: ImageBlock
+        url: /images/IMG-20211120-WA0025.jpg
+        altText: my-partner
+        caption: My partner Sonia
+        elementId: ''
+      - type: ImageBlock
+        url: /images/IMG_7474.jpg
+        altText: Bosco-the-weiner
+        caption: Bosco the weiner dog
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PXL_20231121_074123475.jpg
+        altText: a white chihuahua
+        caption: Cha-Cha the chihuahua
+        elementId: ''
+      - type: ImageBlock
+        url: /images/PXL_20220807_004917904.jpg
+        altText: dodger fan
+        caption: Dodger Stadium is my 2nd home
+        elementId: ''
     colors: colors-f
-    form:
-      type: FormBlock
-      elementId: sign-up-form
-      fields:
-        - name: firstName
-          label: First Name
-          hideLabel: true
-          placeholder: First Name
-          isRequired: true
-          width: 1/2
-          type: TextFormControl
-        - name: lastName
-          label: Last Name
-          hideLabel: true
-          placeholder: Last Name
-          isRequired: false
-          width: 1/2
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Tell me about your project
-          isRequired: true
-          width: full
-          type: TextareaFormControl
-        - name: updatesConsent
-          label: Sign me up to recieve my words
-          isRequired: false
-          width: full
-          type: CheckboxFormControl
-      submitLabel: "Submit \U0001F680"
-      styles:
-        submitLabel:
-          textAlign: center
+    spacing: 16
+    columns: 4
+    aspectRatio: '4:3'
+    showCaption: false
+    enableHover: true
+    elementId: ''
     styles:
       self:
         height: auto
-        width: narrow
-        margin:
-          - mt-0
-          - mb-0
-          - ml-4
-          - mr-4
+        width: full
         padding:
           - pt-12
           - pb-12
-          - pr-4
           - pl-4
-        alignItems: center
+          - pr-4
         justifyContent: center
-        flexDirection: row
       title:
-        textAlign: left
-      text:
-        textAlign: left
+        textAlign: center
+      subtitle:
+        textAlign: center
 ---

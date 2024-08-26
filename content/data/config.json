@@ -22,10 +22,10 @@
         "socialLinks": [
             {
                 "type": "Social",
-                "altText": "GitHub",
-                "label": "GitHub",
-                "url": "https://github.com/netlify-templates",
-                "icon": "github"
+                "altText": "LinkedIn",
+                "label": "LinkedIn",
+                "url": "https://www.linkedin.com/in/kmerino/",
+                "icon": "linkedin"
             }
         ],
         "styles": {
