@@ -103,7 +103,7 @@ sections:
     subtitle: 'Contact:'
     colors: colors-f
     text: |
-      [dafabulousteach@gmail.com](mailto:dafabulousteach@gmail.com)
+      [dafabulousteach at gmail dot com](mailto:dafabulousteach@gmail.com)
   - type: DividerSection
     styles:
       self:
