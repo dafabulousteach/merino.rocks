@@ -156,7 +156,7 @@ sections:
 
           **2006-2015**
 
-          *   Teacher @ SF Unified School District
+          *   Teacher @ SF Unified School District 
 
           *   Teacher @ LA Unified School District
 
