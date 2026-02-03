@@ -122,9 +122,9 @@ sections:
       - type: FeaturedItem
         subtitle: 'Experience:'
         text: |+
-          **Current**
+          **2025-2026**
 
-          *   Freelance Software Engineering
+          *   Senior Engineering Manager @ Honeycomb
 
           **2022-2024**
 
@@ -156,11 +156,9 @@ sections:
 
           **2006-2015**
 
-          *   Teacher @ SF Unified School District 
+          *   Teacher @ SF Unified School District
 
           *   Teacher @ LA Unified School District
-
-
 
         styles:
           self:
